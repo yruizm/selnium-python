@@ -23,6 +23,8 @@ Plugins implementados:
 + ddt (DATA DRIVEN)
 + pytest-html (Reportes de prueba HTML)
 
+ESCENARIO
+
 + Escenario: Compra de Productos en DemoBlaze
 + Dado que ingreso a demoblaze
 + Cuando agrego Productos a la compra
