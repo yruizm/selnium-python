@@ -23,10 +23,10 @@ Plugins implementados:
 + ddt (DATA DRIVEN)
 + pytest-html (Reportes de prueba HTML)
 
-Escenario: Compra de Productos en DemoBlaze
-Dado que ingreso a demoblaze
-Cuando agrego Productos a la compra
-Entonces realizo la finalizacion de la compra
++ Escenario: Compra de Productos en DemoBlaze
++ Dado que ingreso a demoblaze
++ Cuando agrego Productos a la compra
++ Entonces realizo la finalizacion de la compra
 
 
 Para ejecutar la automatización se abre la consola en la raíz del proyecto, y se pone el comando:
